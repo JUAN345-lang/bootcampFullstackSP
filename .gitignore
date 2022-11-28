@@ -1,0 +1,42 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# Compiled output
+/Minireto2Angular/PerfilFront/dist
+/Minireto2Angular/PerfilFront/tmp
+/Minireto2Angular/PerfilFront/out-tsc
+/Minireto2Angular/PerfilFront/bazel-out
+
+# Node
+/Minireto2Angular/PerfilFront/node_modules
+npm-debug.log
+yarn-error.log
+
+# IDEs and editors
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# Miscellaneous
+/Minireto2Angular/PerfilFront/.angular/cache
+/Minireto2Angular/PerfilFront/.sass-cache/
+/Minireto2Angular/PerfilFront/connect.lock
+/Minireto2Angular/PerfilFront/coverage
+/Minireto2Angular/PerfilFront/libpeerconnection.log
+testem.log
+/typings
+
+# System files
+.DS_Store
+Thumbs.db
